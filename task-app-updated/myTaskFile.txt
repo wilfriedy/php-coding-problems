@@ -1,1 +1,2 @@
-Run - priority : high
+[ x ] - esq-low
+[ x ] - reda - low
